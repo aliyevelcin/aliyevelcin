@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AutoPart**
 
-- 👯 I’m looking to collaborate on **.**
+- 👯 I’m looking to collaborate on **Keep in touch🙂**
 
 - 💬 Ask me about **Python,Django**
 
@@ -13,8 +13,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/elchinaliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elchinaliyevv" height="30" width="40" /></a>
+<a href="https://dev.to/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://twitter.com/elchineliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elchineliyevv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elchin-aliyev-98709b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchin-aliyev-98709b260" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://codesandbox.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://kaggle.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://fb.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
 <a href="https://instagram.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://dribbble.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://www.behance.net/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://hashnode.com/@elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://medium.com/@elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elchinaliyevvv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyevelcin&show_icons=true&locale=en" alt="aliyevelcin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyevelcin&" alt="aliyevelcin" /></p>
-
