@@ -1,30 +1,28 @@
 <h1 align="center">Salam, mən Elçin Əliyev</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <a href="https: //twitter.com/elchineliyevv" target="blank"><img src="https://img.shields.io/twitter/follow/elchineliyevv?logo=twitter&style=for-the-badge" alt="elchineliyevv" /></a> </p>
-
 - 🔭 Hazırda **AutoPart** üzərində işləyirəm
 
-- 👯 ​​**Əlaqə saxla🙂** üzərində əməkdaşlıq etmək istəyirəm
+- 👯 Mən **Əlaqə saxla🙂** üzərində əməkdaşlıq etmək axtarıram
 
-- 💬 Məndən **Python,Django haqqında soruşun **
+- 💬 Məndən **Python,Django** haqqında soruşun
 
-- 📫 Mənə necə müraciət etmək olar **elchineliyevv@gmail.com**
+- 📫 Mənə necə çatmaq olar **elchineliyevv@gmail.com**
 
 ### Bloq yazıları
-<!-- BLOG-POST-LIST:START -->
+<!- - BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Mənimlə əlaqə qurun:</h3>
+<h3 align="left">Mənimlə əlaqə saxlayın:</h3>
 <p align="left">
-<a href="https://codepen.io/elchinaliyevv" target="blank"><img align=" center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elchinaliyevv" hündürlük="30" eni ="40" /></a>
-<a href="https://dev.to/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href= "https://twitter.com/elchineliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src /images/icons/Social/twitter.svg" alt="elchineliyevv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elchin-aliyev -98709b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked -in-alt.svg" alt="elchin-aliyev-98709b260" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/elchinaliyevvv" hədəfi ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg " alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://codesandbox.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://kaggle.com/elchinaliyevvv" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elchinaliyevvv" height="30" eni= "40" /></a>
-<a href="https://fb.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+< a href="https://codepen.io/elchinaliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/codepen.svg" alt="elchinaliyevv" height="30" width="40" /></a>
+<a href="https://dev.to/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://twitter.com/elchineliyevv" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elchineliyevv" boyu="30" eni="40" " /></a>
+<a href="https://linkedin.com/in/elchin-aliyev-98709b260" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchin-aliyev-98709b260" height="30" width="40" " /></a>
+<a href="https://stackoverflow.com/users/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elchinaliyevvv" height="30" width="40" /></a> <
+a href ="https://codesandbox.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/codesandbox.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href="https://kaggle.com/elchinaliyevvv" target= "boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
+<a href ="https://fb.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/facebook.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
 <a href="https://instagram.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
 <a href="https://dribbble.com/elchinaliyevvv " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg " alt="elchinaliyevvv" height="30" width="40" /></a>
 <a href="https://www.behance.net/elchinaliyevvv" target="blank"><img align=" center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="elchinaliyevvv" hündürlük="30" eni ="40" /></a>
