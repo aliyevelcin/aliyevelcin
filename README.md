@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Elchin Aliyev</h1>
 <h3 align="center">Full Stack Web Developer</h3>
+https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif
 
 - 🔭 I’m currently working on **AutoPart**
 
