@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Python,Django**
 
-- 📫 How to reach me **elchineliyevv@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
