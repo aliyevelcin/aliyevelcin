@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AutoPart**
 
-- 👯 I’m looking to collaborate on **Keep in touch🙂**
+
 
 - 💬 Ask me about **Python,Django**
 
