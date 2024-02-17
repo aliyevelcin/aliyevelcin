@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Elchin Aliyev</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **AutoPart**
 
 
 
