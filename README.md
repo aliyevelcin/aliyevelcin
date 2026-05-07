@@ -1,58 +1,54 @@
-<h1 align="center">Hi , I'm Elchin Aliyev</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
-
 <h1 align="center">Hi 👋, I'm Elchin Aliyev</h1>
 <h3 align="center">Full Stack Web Developer | Python & Django</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elchinaliyevvv&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=elchinaliyevvv&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💫 About Me
-- 💻 3+ years Full Stack Web Developer
-- 🎓 Programming instructor
-- 🚀 Focused on Django + modern web apps
-- 🎯 Goal: start small → scale big
-- ☕ Coffee + code = life
+## 👨‍💻 About Me
+
+- 💻 Full Stack Web Developer (3+ years experience)  
+- 🎓 Programming instructor  
+- 🚀 Focused on Python, Django & modern web apps  
+- 🎯 Goal: start small, build big projects  
+- ☕ Coffee + code = productivity  
 
 ---
 
 ## ⚒️ Tech Stack
+
 <p align="center">
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
 
 <a href="https://codepen.io/elchinaliyevvv" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white"
-       style="transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.1)'"
-       onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/elchin-aliyev-98709b260" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/elchinaliyevvv" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/elchineliyevv" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 </p>
@@ -60,6 +56,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elchinaliyevvv&show_icons=true&theme=tokyonight" />
 </p>
@@ -70,54 +67,12 @@
 
 ---
 
-## 🔥 Fun Section
+## 💡 Quote
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elchinaliyevvv&theme=darkhub&margin-w=10&no-frame=true" />
+  "First solve the problem, then write the code."
 </p>
 
 ---
 
-<p align="center">💙 Built with passion by Elchin</p>
-
-
-- 💬 Ask me about **Python,Django**
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-
- <p align="left"> 
-  <a href="https://codepen.io/elchinaliyevv"   ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elchinaliyevv" height="30" width="40" /></a>
-<a href="https://dev.to/elchinaliyevvv"  ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
- </p>
-
-<a href="https://twitter.com/elchineliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elchineliyevv" height="30" width="40" /></a>
-</div>
-<a href="https://linkedin.com/in/elchin-aliyev-98709b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchin-aliyev-98709b260" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://codesandbox.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://kaggle.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://fb.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://instagram.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://dribbble.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://www.behance.net/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://hashnode.com/@elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://medium.com/@elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/elchinaliyevvv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@elchineliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@elchineliyevv" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-<a href="https://discord.gg/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
- 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyevelcin&" alt="aliyevelcin" /></p>
+<p align="center">⭐ Thanks for visiting my profile</p>
