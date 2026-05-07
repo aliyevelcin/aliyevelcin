@@ -56,14 +56,8 @@
 ---
 
 ## 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyevelcin&" alt="aliyevelcin" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elchinaliyevvv&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elchinaliyevvv&theme=tokyonight" />
-</p>
 
 ---
 
