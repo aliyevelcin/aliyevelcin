@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 
-<p   >
+ 
 <a href="https://codepen.io/elchinaliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elchinaliyevv" height="30" width="40" /></a>
 <a href="https://dev.to/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
 <a href="https://twitter.com/elchineliyevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elchineliyevv" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 <a href="https://auth.geeksforgeeks.org/user/user/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/elchinaliyevvv" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
 <a href="https://discord.gg/elchinaliyevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elchinaliyevvv" height="30" width="40" /></a>
-</p>
+ 
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
