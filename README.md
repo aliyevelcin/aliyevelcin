@@ -2,6 +2,82 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 
+<h1 align="center">Hi 👋, I'm Elchin Aliyev</h1>
+<h3 align="center">Full Stack Web Developer | Python & Django</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elchinaliyevvv&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+---
+
+## 💫 About Me
+- 💻 3+ years Full Stack Web Developer
+- 🎓 Programming instructor
+- 🚀 Focused on Django + modern web apps
+- 🎯 Goal: start small → scale big
+- ☕ Coffee + code = life
+
+---
+
+## ⚒️ Tech Stack
+<p align="center">
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+
+<a href="https://codepen.io/elchinaliyevvv" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white"
+       style="transition:0.3s;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<a href="https://linkedin.com/in/elchin-aliyev-98709b260" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/elchinaliyevvv" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/elchineliyevv" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elchinaliyevvv&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elchinaliyevvv&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Fun Section
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elchinaliyevvv&theme=darkhub&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+<p align="center">💙 Built with passion by Elchin</p>
 
 
 - 💬 Ask me about **Python,Django**
